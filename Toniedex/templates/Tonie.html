@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tonie</title>
+</head>
+<body>
+    <h3>{{Jsondic[0].title}}</h3>
+    <h2>{{Jsondic[0].figure}}</h2>
+    <p>{{Jsondic[0].description}}</p>
+    
+    {%for i in Jsondic[1]%}
+    <p>{{i.titles}}</p>
+    {%endfor%}
+
+    <p>{{Jsondic[0].runtime}}</p>
+
+    <img src="{{Jsondic[0].image}}">
+</body>
+</html>
