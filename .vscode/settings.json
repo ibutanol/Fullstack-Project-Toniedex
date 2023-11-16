@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Toniedex",
+            "database": "${workspaceFolder:Toniedex}/database.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
