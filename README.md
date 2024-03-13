@@ -8,6 +8,8 @@ and here comes the clue.
 <h3>Introducing TONIEDEX -</h3> 
 <b>an app designed to help you manage your Tonies collection with ease. Here are its features:</b>
 
+<br>
+
 <b>Track All Owned Tonies:</b> Keep a detailed record of all the Tonies you own.
 
 <b>Wishlist Favorite Tonies:</b> Easily mark your favorite Tonies to keep track of what you'd like to add to your collection.
