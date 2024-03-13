@@ -14,5 +14,5 @@ and here comes the clue.
         <li><strong>Blacklist Unliked Tonies:</strong> Exclude Tonies you don't enjoy from your wishlist.</li>
         <li><strong>Buyer Checklist:</strong> Create a checklist for those purchasing Tonies from your wishlist, ensuring no duplicates.</li>
         <li><strong>Click to Buy or Refer:</strong> Directly purchase Tonies with a click or use referral links to the official website for more options.</li>
-        <li><strong>More Features Coming Soon:</strong> Stay tuned for additional features to enhance your Tonies experience.</li>
+        <li><i><strong>More Features Coming Soon:</strong> Stay tuned for additional features to enhance your Tonies experience.</i></li>
     </ul>
