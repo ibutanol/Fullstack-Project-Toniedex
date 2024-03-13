@@ -8,14 +8,14 @@ and here comes the clue.
 <h2>Introducing TONIEDEX -</h2>
 an app designed to help you manage your Tonies collection with ease. Here are its features:
 
-Track All Owned Tonies: Keep a detailed record of all the Tonies you own.
+<b>Track All Owned Tonies:</b> Keep a detailed record of all the Tonies you own.
 
-Wishlist Favorite Tonies: Easily mark your favorite Tonies to keep track of what you'd like to add to your collection.
+<b>Wishlist Favorite Tonies:</b> Easily mark your favorite Tonies to keep track of what you'd like to add to your collection.
 
-Blacklist Unliked Tonies: Exclude Tonies you don't enjoy from your wishlist.
+<b>Blacklist Unliked Tonies:</b> Exclude Tonies you don't enjoy from your wishlist.
 
-Buyer Checklist: Create a checklist for those purchasing Tonies from your wishlist, ensuring no duplicates.
+<b>Buyer Checklist:</b> Create a checklist for those purchasing Tonies from your wishlist, ensuring no duplicates.
 
-Click to Buy or Refer: Directly purchase Tonies with a click or use referral links to the official website for more options.
+<b>Click to Buy or Refer:</b> Directly purchase Tonies with a click or use referral links to the official website for more options.
 
-More Features Coming Soon: Stay tuned for additional features to enhance your Tonies experience.
+<b>More Features Coming Soon:</b> Stay tuned for additional features to enhance your Tonies experience.
