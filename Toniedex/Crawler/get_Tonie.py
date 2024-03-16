@@ -7,7 +7,6 @@ import re
 from tqdm import tqdm
 
 def crawl():
-    print("hallo hurensohn")
     url = 'https://tonies.com/de-de/tonies/?page=99'
     with start_firefox(url,headless=True) as r:
         time.sleep(1)
