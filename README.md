@@ -5,7 +5,7 @@ interests and how many Tonies they already have in their collection.
 To solve this challenge, we can provide detailed information about the Tonies the child is interested in and the number of Tonies they already own.
 and here comes the clue.
 
-Disclaimer: Dieses Projekt dient <b> nicht </b> zur Veröffentlichung oder Vermarktung sondern 
+<h5>Disclaimer</h5>: Dieses Projekt dient <b> nicht </b> zur Veröffentlichung oder Vermarktung sondern 
 
 <b>Introducing TONIEDEX -</b> 
 <i>an app designed to help you manage your Tonies collection with ease.</i>
