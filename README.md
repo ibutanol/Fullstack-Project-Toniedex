@@ -5,10 +5,6 @@ interests and how many Tonies they already have in their collection.
 To solve this challenge, we can provide detailed information about the Tonies the child is interested in and the number of Tonies they already own.
 and here comes the clue.
 
-# Disclaimer
-
-Dieses Projekt dient <b> nicht </b> zur Veröffentlichung oder Vermarktung sondern 
-
 
 <b>Introducing TONIEDEX -</b> 
 <i>an app designed to help you manage your Tonies collection with ease.</i>
@@ -21,3 +17,8 @@ Dieses Projekt dient <b> nicht </b> zur Veröffentlichung oder Vermarktung sonde
         <li><strong>Click to Buy or Refer:</strong> Directly purchase Tonies with a click or use referral links to the official website for more options.</li>
         <li><i><strong>More Features Coming Soon:</strong> Stay tuned for additional features to enhance your Tonies experience.</i></li>
     </ul>
+
+
+# Disclaimer: Projektzweck und Nutzungshinweis
+
+Dieses Projekt wurde mit dem Ziel erstellt, meine Fähigkeiten und Kenntnisse als Bewerber für zukünftige Arbeitsmöglichkeiten zu demonstrieren. Es ist nicht für kommerzielle Zwecke bestimmt, noch soll es auf öffentlichen Plattformen wie GitHub zur Vermarktung oder Veröffentlichung bereitgestellt werden. Jegliche Ähnlichkeiten mit realen Produkten oder Dienstleistungen sind rein zufällig. Dieses Projekt dient ausschließlich zur persönlichen Demonstration und sollte nicht als offizielles Angebot oder Produkt betrachtet werden.
