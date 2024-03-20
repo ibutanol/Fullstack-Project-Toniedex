@@ -22,3 +22,6 @@ and here comes the clue.
 # Disclaimer: Projektzweck und Nutzungshinweis
 
 Dieses Projekt wurde mit dem Ziel erstellt, meine Fähigkeiten und Kenntnisse als Bewerber für zukünftige Arbeitsmöglichkeiten zu demonstrieren. Es ist nicht für kommerzielle Zwecke bestimmt, noch soll es auf öffentlichen Plattformen wie GitHub zur Vermarktung oder Veröffentlichung bereitgestellt werden. Jegliche Ähnlichkeiten mit realen Produkten oder Dienstleistungen sind rein zufällig. Dieses Projekt dient ausschließlich zur persönlichen Demonstration und sollte nicht als offizielles Angebot oder Produkt betrachtet werden.
+
+<h3>English</h3>
+Disclaimer: Project Purpose and Usage NoticeThis project was created with the aim of showcasing my skills and knowledge as an applicant for future job opportunities. It is not intended for commercial purposes, nor should it be made available for marketing or publication on public platforms such as GitHub. Any similarities to real products or services are purely coincidental. This project is solely for personal demonstration and should not be considered an official offer or product.
